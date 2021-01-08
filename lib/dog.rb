@@ -12,3 +12,8 @@
 # lassie.name = "Lassie"
 #
 # lassie.name
+
+class Dog
+  
+
+end
